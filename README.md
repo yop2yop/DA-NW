@@ -70,7 +70,9 @@ LEFT JOIN Player p ON pa.player_fifa_api_id = p.player_fifa_api_id
 
 ## ¿Qué insights ves en el perfil por jugador? ¿Qué data crees que es relevante para elegir a los mejores jugadores?
 
-Con los datos de los atributos del jugador, podría formar mi propio equipo de fútbol seleccionando jugadores que tengan los mejores atributos generales para las posiciones que necesito llenar. También podría analizar los índices de trabajo ofensivo y defensivo de cada jugador para determinar qué jugadores son los más eficaces en sus respectivos roles. Además, podría usar los atributos del GK para seleccionar un portero que se adapte mejor al estilo de juego de mi equipo.
+Con los datos de los atributos del jugador, podría formar mi propio equipo de fútbol seleccionando jugadores que tengan los mejores atributos generales para las posiciones que necesito llenar. También podría analizar los índices de trabajo ofensivo y defensivo de cada jugador para determinar qué jugadores son los más eficaces en sus respectivos roles. Además, podría usar los atributos del GK para seleccionar un portero que se adapte mejor al estilo de juego de mi equipo. 
+Al realizar este filtro se elige a Julio Cesar como el mejor arquero del set de datos. Posteriormente se selecciona a 10 jugadores, pero filtrando las estadisticas de portero por lo que mi equipo ideal sería Steven Gerrard, Pavel Nedved, Frank Lampard, Maicon,Michael Essien, Daniele De Rossi, Daniel Alves,Wayne Rooney, Michael Ballack y Cesc Fabrega. Esta selección se puede ver mejor en el notebook, donde promedio sus estadisticas y elijo a los mejores 10 (asumiendo que el equipo es de 11 y no debo elegir a la bancada).
+
 
 ## ¿Cuál es tu sugerencia de jugadores para armar el mejor equipo de la historia? Argumenta tu respuesta.
 
